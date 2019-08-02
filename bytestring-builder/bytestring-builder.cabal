@@ -5,7 +5,6 @@ version:             0.0.0.0
 synopsis:            Workaround for the empty package issue in rules_haskell (#999)
 homepage:            workaround
 license:             NONE
-license-file:        LICENSE
 author:              Workaround
 maintainer:          workaround
 
